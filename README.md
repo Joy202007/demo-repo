@@ -1,3 +1,3 @@
 # Demo
 
-Exercise
+Practice Exercise!
